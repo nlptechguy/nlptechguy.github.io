@@ -1,3 +1,3 @@
-Hi, My name is Himanshu Teotia
+Hack everything whatever you can!
 
-I have more than 7+ years of expirience in Software Industry.
+- HImanshu Teotia
