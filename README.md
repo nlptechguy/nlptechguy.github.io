@@ -12,6 +12,8 @@
 - Rasa NLU / Rasa X
 - Spacy
 - Deeppavlov
+
+
 /* Chatbot Platforms */
 - Flow xo
 - Chatfuel
