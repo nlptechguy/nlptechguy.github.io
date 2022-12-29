@@ -1,4 +1,4 @@
-* AI frameworks and libraries *
+** AI frameworks and libraries **
 - Keras
 - TensorFlow
 - Scikit-learn
@@ -14,7 +14,7 @@
 - Deeppavlov
 
 
-* Chatbot Platforms *
+** Chatbot Platforms **
 - Flow xo
 - Chatfuel
 - IBM Watson
