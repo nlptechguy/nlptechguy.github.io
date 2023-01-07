@@ -1,3 +1,5 @@
+I am a highly experienced Senior Chatbot Developer with 7+ years of experience in creating and deploying conversational experiences for the enterprise. I have extensive experience with natural language processing and machine learning, and have developed chatbot solutions for several well-known companies. My expertise includes developing chatbot solutions with various technologies, such as Alexa, Watson, Dialogflow, and Azure Bot Service. My experience also includes training and deploying AI/ML models, developing conversational flows and integrations, and optimizing chatbot performance. I am also well versed in various chatbot frameworks, including Botkit, Rasa, Botexpress, and Microsoft Bot Framework. With my experience and skills, I am confident that I can help your organization create and deploy successful chatbot solutions.
+
 ### AI frameworks and libraries
 - Keras
 - TensorFlow
